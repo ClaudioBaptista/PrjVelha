@@ -1,4 +1,5 @@
 🧠 Sobre o Projeto
+
 Este repositório contém um Jogo da Velha (Tic-Tac-Toe) desenvolvido com .NET MAUI — uma tecnologia da Microsoft para criação de aplicativos multiplataforma (Android, iOS, Windows e macOS).
 
 O projeto tem como objetivo demonstrar de forma prática:
