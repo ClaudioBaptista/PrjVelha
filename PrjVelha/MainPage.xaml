@@ -15,7 +15,7 @@
         <Style TargetType="Button">
             <Setter Property="BackgroundColor" Value="#FFFFFF33"/>
             <Setter Property="CornerRadius" Value="25"/>
-            <Setter Property="TextColor" Value="#FFFFFF"/>
+            <Setter Property="TextColor" Value="Black"/>
             <Setter Property="FontSize" Value="48"/>
             <Setter Property="FontAttributes" Value="Bold"/>
             <Setter Property="BorderWidth" Value="3"/>
